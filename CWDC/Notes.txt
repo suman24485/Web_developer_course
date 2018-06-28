@@ -41,4 +41,38 @@ Example Domain
       reversed
   </ol>
 
-8. 
+8. Images
+    <img> - self closing tag
+    <img src="<path to jpg>">
+    <img src="Url">
+
+9. Forms
+    Allows pages to be interactive
+    <form>
+      <input type="">
+    </form>
+
+10. Tables
+    <table>
+      <tr>
+        <td> AVR </td>
+        <td> AYR </td>
+        <td> AS </td>
+        <td> AAl </td>
+        <td> AAn </td>
+      </tr>
+    </table>
+
+11. Links
+  <p><a href="URL">Clic Here</a></p>
+  absolute Links - links outside of website
+  relative Links - links within the website
+  Anchor links - links to the different portions of the current page
+
+12. Entities
+  Go through w3schools for complete list of entities
+  Displaying symbols or characters on the page
+  dev.w3.org
+
+13. IFrames
+  Content from other sites into our website using iframes
