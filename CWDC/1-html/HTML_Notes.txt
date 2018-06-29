@@ -1,3 +1,4 @@
+HTML5
 1. Structure of Web Page
 Example Domain
 <html>
@@ -80,3 +81,8 @@ Example Domain
 14. Project
 
 15. FTP utilities to update the website files
+    FileZilla
+    FireFTP
+
+16. Certification
+    https://www.the-cca.org/html-level-1/
