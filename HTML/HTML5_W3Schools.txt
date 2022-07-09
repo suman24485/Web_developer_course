@@ -1,8 +1,0 @@
-Basic Tags
-
-<html></html>
-<body/>
-<h1/> to <h6/> - headings
-<p/> - Paragraphs
-<a/> - links (href)
-<img> - image source (src, alt, width, height)
